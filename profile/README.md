@@ -6,7 +6,7 @@
 
 <p>
 <a href="https://github.com/botdev-community/community/issues/new?template=join-request.yml"><img src="https://img.shields.io/badge/Join%20the%20Community-🚀-blue?style=for-the-badge" alt="Join Us"></a>
-<a href="https://github.com/botdev-community/community/discussions"><img src="https://img.shields.io/badge/Discussions-💬-purple?style=for-the-badge" alt="Discussions"></a>
+<a href="https://github.com/botdev-community/discussions"><img src="https://img.shields.io/badge/Discussions-💬-purple?style=for-the-badge" alt="Discussions"></a>
 <a href="https://github.com/botdev-community/awesome-bot-resources"><img src="https://img.shields.io/badge/Resources-📚-orange?style=for-the-badge" alt="Resources"></a>
 </p>
 
