@@ -6,7 +6,7 @@
 
 <p>
 <a href="https://github.com/botdev-community/community/issues/new?template=join-request.yml"><img src="https://img.shields.io/badge/Join%20the%20Community-🚀-blue?style=for-the-badge" alt="Join Us"></a>
-<a href="https://github.com/botdev-community/discussions"><img src="https://img.shields.io/badge/Discussions-💬-purple?style=for-the-badge" alt="Discussions"></a>
+<a href="https://github.com/orgs/botdev-community/discussions"><img src="https://img.shields.io/badge/Discussions-💬-purple?style=for-the-badge" alt="Discussions"></a>
 <a href="https://github.com/botdev-community/awesome-bot-resources"><img src="https://img.shields.io/badge/Resources-📚-orange?style=for-the-badge" alt="Resources"></a>
 </p>
 
@@ -193,7 +193,7 @@ You don't need to be a member to participate!
 <td width="50%">
 
 ### 🗣️ Discussions
-**[Join our Discussions](https://github.com/botdev-community/community/discussions)**
+**[Join our Discussions](https://github.com/orgs/botdev-community/discussions)**
 
 - ❓ Ask questions about bot development
 - 💡 Share ideas and get feedback
@@ -306,7 +306,7 @@ You don't need to be a member to participate!
 | 📚 Learn | 🛠️ Build | 🤝 Connect |
 |----------|-----------|------------|
 | [Awesome Resources](https://github.com/botdev-community/awesome-bot-resources) | [Starter Templates](https://github.com/botdev-community) | [Join Community](https://github.com/botdev-community/community/issues/new?template=join-request.yml) |
-| [Tutorials](https://github.com/botdev-community/community/discussions) | [Contributing Guide](https://github.com/botdev-community/.github/blob/main/CONTRIBUTING.md) | [Discussions](https://github.com/botdev-community/community/discussions) |
+| [Tutorials](https://github.com/botdev-community/community/discussions) | [Contributing Guide](https://github.com/botdev-community/.github/blob/main/CONTRIBUTING.md) | [Discussions](https://github.com/orgs/botdev-community/discussions) |
 | [Documentation](https://github.com/botdev-community) | [Issues](https://github.com/botdev-community/community/issues) | [Code of Conduct](https://github.com/botdev-community/.github/blob/main/CODE_OF_CONDUCT.md) |
 
 </div>
@@ -375,7 +375,7 @@ Whether you're building your first bot or your fiftieth,
 
 **[👉 Join BotDev Community](https://github.com/botdev-community/community/issues/new?template=join-request.yml)** • 
 **[📚 Browse Resources](https://github.com/botdev-community/awesome-bot-resources)** • 
-**[💬 Start Discussing](https://github.com/botdev-community/community/discussions)**
+**[💬 Start Discussing](https://github.com/orgs/botdev-community/discussions)**
 
 <br>
 
