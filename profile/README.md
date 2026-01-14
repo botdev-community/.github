@@ -125,7 +125,7 @@ The most comprehensive list of bot development resources on GitHub. Covering fra
 </td>
 <td width="50%">
 
-### 📱 Starter Templates *(Coming Soon)*
+### 📱 Starter Templates 
 Production-ready boilerplates to kickstart your bot projects:
 
 - **WhatsApp Bot Starter** - FastAPI + MongoDB
