@@ -65,7 +65,7 @@ Curated list of 100+ frameworks, libraries, APIs, and tools for every major plat
 <td width="33%" align="center">
 
 ### 🛠️ Starter Templates
-**Production-Ready Boilerplates**
+[**Production-Ready Boilerplates**](https://github.com/botdev-community/.github/edit/main/profile/README.md#-starter-templates)
 
 Get up and running in minutes with our tested templates for WhatsApp, Telegram, Discord, Slack & more
 
@@ -128,9 +128,9 @@ The most comprehensive list of bot development resources on GitHub. Covering fra
 ### 📱 Starter Templates 
 Production-ready boilerplates to kickstart your bot projects:
 
-- **WhatsApp Bot Starter** - FastAPI + MongoDB
-- **Telegram Bot Starter** - Python + async
-- **Discord Bot Starter** - discord.py + commands
+- [**WhatsApp Bot Starter**](https://github.com/botdev-community/telegram-bot-starter) - FastAPI + MongoDB
+- [**Telegram Bot Starter**](https://github.com/botdev-community/whatsapp-bot-starter) - Python + async
+- [**Discord Bot Starter**](https://github.com/botdev-community/discord-bot-starter) - discord.py + commands
 - **Multi-Platform Bot** - Build once, deploy everywhere
 
 🚧 **In Development** - Watch this space!
