@@ -65,7 +65,7 @@ Curated list of 100+ frameworks, libraries, APIs, and tools for every major plat
 <td width="33%" align="center">
 
 ### 🛠️ Starter Templates
-[**Production-Ready Boilerplates**](https://github.com/botdev-community/.github/edit/main/profile/README.md#-starter-templates)
+[**Production-Ready Boilerplates**](https://github.com/botdev-community/.github/tree/main/profile#-starter-templates)
 
 Get up and running in minutes with our tested templates for WhatsApp, Telegram, Discord, Slack & more
 
